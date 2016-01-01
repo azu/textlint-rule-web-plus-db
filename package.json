@@ -13,7 +13,11 @@
   },
   "version": "1.0.0",
   "description": "Web+DB用語統一 for textlint",
-  "main": "index.js",
+  "main": "lib/textlint-rule-web-plus-db.js",
+  "files": [
+    "lib",
+    "dict"
+  ],
   "directories": {
     "test": "test"
   },
