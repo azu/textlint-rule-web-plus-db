@@ -1,4 +1,4 @@
-# textlint-rule-web-plus-db
+# textlint-rule-web-plus-db [![Build Status](https://travis-ci.org/azu/textlint-rule-web-plus-db.svg?branch=master)](https://travis-ci.org/azu/textlint-rule-web-plus-db)
 
 WEB+DB PRESS用語統一辞書 for [textlint](https://github.com/textlint/textlint "textlint")
 
