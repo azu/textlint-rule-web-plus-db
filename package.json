@@ -1,0 +1,34 @@
+{
+  "name": "textlint-rule-web-plus-db",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azu/textlint-rule-web-plus-db.git"
+  },
+  "author": "azu",
+  "email": "azuciao@gmail.com",
+  "homepage": "https://github.com/azu/textlint-rule-web-plus-db",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/textlint-rule-web-plus-db/issues"
+  },
+  "version": "1.0.0",
+  "description": "Web+DB用語統一 for textlint",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "textlint",
+    "web+db",
+    "dictionary"
+  ],
+  "dependencies": {
+    "textlint-rule-prh": "^2.2.0"
+  },
+  "devDependencies": {
+    "textlint-tester": "^0.4.1"
+  }
+}
