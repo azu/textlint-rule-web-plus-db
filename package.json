@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/azu/textlint-rule-web-plus-db/issues"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web+DB用語統一 for textlint",
   "main": "lib/textlint-rule-web-plus-db.js",
   "files": [
