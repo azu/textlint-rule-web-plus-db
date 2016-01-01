@@ -33,6 +33,7 @@
     "textlint-rule-prh": "^2.2.0"
   },
   "devDependencies": {
+    "mocha": "^2.3.4",
     "textlint-tester": "^0.4.1"
   }
 }
