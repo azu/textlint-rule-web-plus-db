@@ -1,10 +1,8 @@
 # textlint-rule-web-plus-db [![Build Status](https://travis-ci.org/azu/textlint-rule-web-plus-db.svg?branch=master)](https://travis-ci.org/azu/textlint-rule-web-plus-db)
 
-WEB+DB PRESS用語統一辞書 for [textlint](https://github.com/textlint/textlint "textlint")
+[inao/WEB+DB PRESS用語統一ルール](https://gist.github.com/inao/f55e8232e150aee918b9 "inao/WEB+DB PRESS用語統一ルール") for [textlint](https://github.com/textlint/textlint "textlint")
 
-[inao/WEB+DB PRESS用語統一ルール](https://gist.github.com/inao/f55e8232e150aee918b9 "inao/WEB+DB PRESS用語統一ルール")を用語統一辞書をチェックするtextlintルールです。
-
-できる限りWEB+DB PRESS用語統一を厳守することを目的としています。
+できる限りWEB+DB PRESS用語統一ルールを厳守することを目的としています。
 
 ## Installation
 
