@@ -39,10 +39,10 @@
     "dictionary"
   ],
   "dependencies": {
+    "brfs": "^1.4.3",
     "textlint-rule-prh": "^2.2.0"
   },
   "devDependencies": {
-    "brfs": "^1.4.3",
     "browserify": "^13.0.0",
     "mocha": "^2.3.4",
     "textlint-tester": "^0.4.1"
