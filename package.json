@@ -12,16 +12,24 @@
     "url": "https://github.com/azu/textlint-rule-web-plus-db/issues"
   },
   "version": "1.0.1",
-  "description": "Web+DB用語統一 for textlint",
+  "description": "Web+DB用語統一のtextlintルール",
   "main": "lib/textlint-rule-web-plus-db.js",
   "files": [
     "lib",
-    "dict"
+    "dict",
+    "build"
   ],
+  "browserify": {
+    "transform": [
+      "brfs"
+    ]
+  },
   "directories": {
     "test": "test"
   },
   "scripts": {
+    "build": "browserify lib/textlint-rule-web-plus-db.js -o build/textlint-rule-web-plus-db.js",
+    "prepublish": "npm run --if-present build",
     "test": "mocha"
   },
   "keywords": [
@@ -33,6 +41,8 @@
     "textlint-rule-prh": "^2.2.0"
   },
   "devDependencies": {
+    "brfs": "^1.4.3",
+    "browserify": "^13.0.0",
     "mocha": "^2.3.4",
     "textlint-tester": "^0.4.1"
   }
