@@ -14,7 +14,6 @@
   "version": "1.1.2",
   "description": "Web+DB用語統一のtextlintルール",
   "main": "lib/textlint-rule-web-plus-db.js",
-  "browser": "build/textlint-rule-web-plus-db.js",
   "files": [
     "lib",
     "dict",
