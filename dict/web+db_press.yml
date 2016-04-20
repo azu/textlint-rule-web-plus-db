@@ -1603,7 +1603,7 @@ rules:
 
   # 全角括弧前後の空白を除去
   - expected: （
-    pattern: /（|（/
+    pattern: / （|（ /
 
   # 全角括弧前後の空白を除去
   - expected: ）
