@@ -1,5 +1,11 @@
 # textlint-rule-web-plus-db [![Build Status](https://travis-ci.org/azu/textlint-rule-web-plus-db.svg?branch=master)](https://travis-ci.org/azu/textlint-rule-web-plus-db)
 
+----
+
+**DEPRECATED**: [textlint-rule-prh](https://github.com/textlint-rule/textlint-rule-prh "textlint-rule-prh") + <https://github.com/prh/rules/tree/master/media>のルールファイルを使うことを推奨します。
+
+----
+
 [inao/WEB+DB PRESS用語統一ルール](https://gist.github.com/inao/f55e8232e150aee918b9 "inao/WEB+DB PRESS用語統一ルール") for [textlint](https://github.com/textlint/textlint "textlint")
 
 できる限りWEB+DB PRESS用語統一ルールを厳守することを目的としています。
